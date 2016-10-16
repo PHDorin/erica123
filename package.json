@@ -1,0 +1,26 @@
+{
+  "name": "erica123",
+  "version": "1.0.0",
+  "description": "authorization, mf'ers",
+  "main": "kat.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/efanelle/erica123.git"
+  },
+  "keywords": [
+    "this",
+    "sucks"
+  ],
+  "author": "the fabulous foursome",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/efanelle/erica123/issues"
+  },
+  "homepage": "https://github.com/efanelle/erica123#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
