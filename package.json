@@ -21,6 +21,10 @@
   },
   "homepage": "https://github.com/efanelle/erica123#readme",
   "dependencies": {
-    "express": "^4.14.0"
+    "body-parser": "^1.15.2",
+    "ejs": "^2.5.2",
+    "express": "^4.14.0",
+    "express-session": "^1.14.1",
+    "mongoose": "^4.6.4"
   }
 }

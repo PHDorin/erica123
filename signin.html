@@ -3,8 +3,16 @@
 <head>
   <meta charset="UTF-8">
   <title>Signup for Nothing</title>
+<script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.5.6/angular.min.js"></script>
+<script src="PHIL.JS"></script>
 </head>
-<body>
+<body ng-app="myApp">
+  <form ng-controller="ivey" ng-submit="addData()">
+    <input type="text" ng-model="data.username"> {{data.username}}
+    <textarea rows='1' cols='40' type="text" ng-model="data.password"></textarea>
+    <button type="submit">Click here mother fucker </button>
+  </form>
+
 
 
 
